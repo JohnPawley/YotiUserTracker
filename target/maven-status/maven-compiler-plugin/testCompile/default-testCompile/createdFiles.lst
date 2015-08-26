@@ -1,0 +1,4 @@
+com/usertracker/domain/UserManagerTest.class
+com/usertracker/ports/UserTrackerResourceTest.class
+com/usertracker/domain/UserTest.class
+com/usertracker/ports/UserRepositoryImplTest.class

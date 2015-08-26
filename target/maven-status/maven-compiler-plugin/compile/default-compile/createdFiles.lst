@@ -1,0 +1,8 @@
+com/usertracker/domain/UserManager.class
+com/usertracker/ports/UserTrackerResource.class
+com/usertracker/UserTrackerConfiguration.class
+com/usertracker/ports/UserRepositoryImpl.class
+com/usertracker/UserTrackerApplication.class
+com/usertracker/domain/exceptions/InvalidUserIdException.class
+com/usertracker/domain/User.class
+com/usertracker/domain/UserRepository.class

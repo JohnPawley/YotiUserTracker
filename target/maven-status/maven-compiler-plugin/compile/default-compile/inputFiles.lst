@@ -1,0 +1,8 @@
+/Users/jpa19/workspaces/YotiUserTracker/src/main/java/com/usertracker/domain/UserRepository.java
+/Users/jpa19/workspaces/YotiUserTracker/src/main/java/com/usertracker/domain/UserManager.java
+/Users/jpa19/workspaces/YotiUserTracker/src/main/java/com/usertracker/ports/UserRepositoryImpl.java
+/Users/jpa19/workspaces/YotiUserTracker/src/main/java/com/usertracker/domain/exceptions/InvalidUserIdException.java
+/Users/jpa19/workspaces/YotiUserTracker/src/main/java/com/usertracker/UserTrackerConfiguration.java
+/Users/jpa19/workspaces/YotiUserTracker/src/main/java/com/usertracker/UserTrackerApplication.java
+/Users/jpa19/workspaces/YotiUserTracker/src/main/java/com/usertracker/ports/UserTrackerResource.java
+/Users/jpa19/workspaces/YotiUserTracker/src/main/java/com/usertracker/domain/User.java
